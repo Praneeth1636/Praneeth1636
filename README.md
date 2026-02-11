@@ -1,32 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:8b5cf6&height=100&section=header&text=Praneeth&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:EA4335&height=120&section=header&text=Praneeth&fontSize=48&fontColor=fff&fontAlignY=45&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=06b6d4&center=true&vCenter=true&width=500&lines=Developer+%E2%80%A2+Builder+%E2%80%A2+Creator;TypeScript+%E2%80%A2+React+%E2%80%A2+Python;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3500&pause=1200&color=4285F4&center=true&vCenter=true&width=520&multiline=true&lines=Developer+%E2%80%A2+Builder+%E2%80%A2+Creator;TypeScript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Node.js;Building+for+the+web" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praneeth1636&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=6366f1&text_color=e2e8f0" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth1636&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=8b5cf6" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneeth1636&show_icons=true&theme=transparent&hide_border=true&bg_color=ffffff&title_color=4285F4&icon_color=34A853&text_color=5f6368" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth1636&theme=transparent&hide_border=true&background=ffffff&ring=4285F4&fire=EA4335&currStreakLabel=34A853" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-4285F4?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-34A853?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-34A853?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4285F4?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praneeth1636&label=Profile+Views&color=06b6d4&style=for-the-badge&labelColor=0d1117" alt="Profile views"/>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Praneeth1636&label=Profile+views&color=4285F4&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -34,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:6366f1&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4335,50:34A853,100:4285F4&height=60&section=footer" width="100%"/>
 </p>
