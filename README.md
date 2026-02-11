@@ -1,42 +1,35 @@
 <div align="center">
 
-<img src="assets/hero.gif" alt="" width="100%"/>
+## ✦ Praneeth
 
-<br/><br/>
+**Developer · Builder · Creator**
 
-<img src="assets/title.svg" alt="Your Name" width="480"/>
+[**→ View full portfolio**](https://praneeth1636.github.io) *(Aceternity-style, full-screen)*
 
-**Developer · Builder**
-
-<br/>
-
-<img src="assets/divider.svg" alt="" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=a5b4fc&icon_color=67e8f9&text_color=e0e7ff" alt="Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=0a0a0f&ring=6366f1&fire=06b6d4&currStreakLabel=67e8f9" alt="Streak" width="48%"/>
-
-<br/><br/>
-
-<img src="assets/divider.svg" alt="" width="100%"/>
+*Turning ideas into reality with TypeScript, React & Python*
 
 <br/>
 
-**Tech**
-
-<br/>
-
-<img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=next.js&logoColor=e0e7ff"/>
-<img src="https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=node.js&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=a5b4fc"/>
-<img src="https://img.shields.io/badge/Tailwind-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=67e8f9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Praneeth1636&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth1636&theme=transparent&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9" alt="Streak" width="48%"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=a5b4fc)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0a0f?style=flat-square&logo=x&logoColor=e0e7ff)](https://twitter.com/YOUR_USERNAME)
+### Tech Stack
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+<br/><br/>
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=github&logoColor=white)](https://praneeth1636.github.io)
 
 </div>
