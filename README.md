@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Praneeth&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-</p>
-
-<div align='center'>
-  <p align='center'>
-    <a href="https://praneeth1636.netlify.app/"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/praneeth-yashovardhan-kadem/"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>&nbsp;&nbsp;
-    <a href="mailto:praneethkadem16@gmail.com"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"></a>&nbsp;&nbsp;
+  <h1 align="center">Hi, I'm Praneeth</h1>
+  <h3 align="center">Software Developer · AI Enthusiast · M.S. CS @ NYU</h3>
+  <p align="center">
+    <a href="https://praneeth1636.netlify.app/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Website"/></a>
+    <a href="https://www.linkedin.com/in/praneeth-yashovardhan-kadem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
+    <a href="mailto:praneethkadem16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/></a>
   </p>
-</div>
+</p>
 
 ### About me
 
