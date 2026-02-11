@@ -14,18 +14,17 @@
 
 ### Github stats
 
-![Praneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praneeth1636&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
-
-![Praneeth's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Praneeth1636&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Praneeth1636&show_icons=true&theme=default&hide_border=true&bg_color=fff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth1636&theme=default&hide_border=true&background=fff" width="48%"/>
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Praneeth1636&repo=Work&theme=swift)](https://github.com/Praneeth1636/Work)
+[![react-tasks1](https://github-readme-stats.vercel.app/api/pin?username=Praneeth1636&repo=react-tasks1&theme=default&bg_color=fff)](https://github.com/Praneeth1636/react-tasks1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Praneeth1636&repo=TASK-2&theme=swift)](https://github.com/Praneeth1636/TASK-2)
+[![react-tasks-2](https://github-readme-stats.vercel.app/api/pin?username=Praneeth1636&repo=react-tasks-2&theme=default&bg_color=fff)](https://github.com/Praneeth1636/react-tasks-2)
 
 ### Connect
 
-[![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=netlify&logoColor=fff&link=https://praneeth1636.netlify.app/)](https://praneeth1636.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff&link=https://www.linkedin.com/in/praneeth-yashovardhan-kadem/)](https://www.linkedin.com/in/praneeth-yashovardhan-kadem/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff&link=mailto:praneethkadem16@gmail.com)](mailto:praneethkadem16@gmail.com)
+[![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=netlify&logoColor=fff)](https://praneeth1636.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/praneeth-yashovardhan-kadem/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:praneethkadem16@gmail.com)
